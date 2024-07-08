@@ -1,0 +1,22 @@
+.tour{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.tour-cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.heading{
+ width: 20rem;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ color: rgb(11, 11, 90);
+ border: 0.3rem dashed rgb(12, 12, 81);
+ border-radius: 1rem;
+ }
